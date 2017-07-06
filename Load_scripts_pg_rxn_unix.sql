@@ -1,0 +1,9 @@
+\copy RXNATOMARCHIVE from '{RRF-DIR}/RXNATOMARCHIVE.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNCONSO from '{RRF-DIR}/RXNCONSO.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNREL from '{RRF-DIR}/RXNREL.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNSAB from '{RRF-DIR}/RXNSAB.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNSAT from '{RRF-DIR}/RXNSAT.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNSTY from '{RRF-DIR}/RXNSTY.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNDOC from '{RRF-DIR}/RXNDOC.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNCUICHANGES from '{RRF-DIR}/RXNCUICHANGES.RRF.lesspipe' with (delimiter '|', null '');
+\copy RXNCUI from '{RRF-DIR}/RXNCUI.RRF.lesspipe' with (delimiter '|', null '');
